@@ -1,2 +1,2 @@
-# An-lisis-de-anem-metro
-Determiné los meses en los cuales se puede haber máxima generación de energía eólica con datos de un anemómetro que recolectó la velocidad del aire durante varios meses.
+# Anemometer Analysis for energy generation.
+I determined the months in which there could be maximum wind energy generation using data from an anemometer that collected airspeed measurements over several months.
